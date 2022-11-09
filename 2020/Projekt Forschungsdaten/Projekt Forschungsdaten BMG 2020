@@ -19,10 +19,10 @@ Das BMG hat mit dem BfArM Tech4Germany in das FDZ geholt, um die Nutzungsfreundl
 # Ressourcen
 
 
-#### [Benchmarking (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Benchmarking-Forschungsdatenzentrum.pdf) (Zirkellink)
+#### [Benchmarking (PDF)](f2_Benchmarking-Forschungsdatenzentrum.pdf)
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_FDZ.pdf) (Zirkellink)
+#### [Fallstudie (PDF)](f1_Fallstudie_FDZ.pdf)
 
 
 #### [GitHub (Code)](https://github.com/tech4germany/fdz-portal) 
@@ -36,6 +36,7 @@ Das BMG hat mit dem BfArM Tech4Germany in das FDZ geholt, um die Nutzungsfreundl
 
 #### [Landingpage Prototyp](https://www.figma.com/proto/FCtbGdUX5YFNlNisle6qhZ/%F0%9F%A4%96-FDZ-Landing-Page?node-id=129%3A1&scaling=min-zoom)
 
+![alt](1_fdz-team-2-1280x960.jpeg)
 
 # Zielsetzung & Vorgehen
 
@@ -44,6 +45,7 @@ Das Ziel war, die Datennutzung für Forscher:innen zu erleichtern. Dabei sollten
 Zudem war es herausfordernd für Forscher:innen, sich die notwendige Expertise für den Umgang mit dem komplexen Datensatz anzueignen. \
 Mit einem verbesserten Verständnis von Problemen der Forscher:innen konnten Ideen entwickelt und wiederum iterativ mit ihnen in etlichen Tests verbessert werden. Dabei wurde interdisziplinär das Expertenwissen der Digitallotsen, also den Repräsentant:innen aus den Behörden, mit den Fähigkeiten der Fellows in Produktmanagement, Design und Coding kombiniert, um den Forscher:innen eine gute Lösung zu bieten. 
 
+![alt](2_fdz-methoden-small2-1280x522.jpg)
 
 # Erkentnisse & Lösung
 
@@ -57,21 +59,21 @@ Erstens wurde die öffentliche Landing Page mit Hilfe zahlreicher Nutzer:innente
 Im neuen Antragsportal können Forscher:innen übersichtlich die Historie, den aktuellen Stand, sowie einzureichende Unterlagen einsehen.
 
 Der gesamte Forschungsprozess mit dem FDZ wird so transparenter. Zudem können Forscher:innen ihre Forschungsvorhaben jetzt besser planen.
-
+![alt](3_fdz-screen-1280x767.png)
 
 # Community
 
 Um die Transparenz für Forscher zu erhöhen haben wir erforscht wie man eine Community für Forscher gestalten müsste.
 
 Ziel hierbei war es herauszufinden wie Forscher sich vernetzen und unterstützen können als auch die Arbeitsbelastung für das Forschungsdatenzentrum zu senken.
-
+![alt](4_community-1280x824.png)
 
 # Landingpage
 
 Die öffentliche Landing Page wurde restrukturiert, um relevante Informationen gezielt für die Forscher:innen mit unterschiedlichem Vorwissen bereit zu stellen.
 
 Es gibt jetzt klare Informationen über die verschiedenen Wege, um an Daten für Forschungszwecke zu gelangen.
-
+![alt](5_landing-1280x824.png)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -81,7 +83,7 @@ Es gibt jetzt klare Informationen über die verschiedenen Wege, um an Daten für
 Ein Vergleich mit anderen Forschungsdatenzentren in der EU
 
 
-#### [Lesen](https://tech.4germany.org/wp-content/uploads/2020/10/Benchmarking-Forschungsdatenzentrum.pdf) 
+#### [Lesen](f2_Benchmarking-Forschungsdatenzentrum.pdf) 
 
 
 ## Prototyp
@@ -102,15 +104,19 @@ Der Open Source Code unseres Prototypens
 
 # das Team
 
+![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg)
 **Carolin Bednarz** \
 Product Fellow
 
+![alt](7_Fellow-Jonas-Pohlmann-Profilfoto_.jpg)
 **Jonas Pohlmann** \
 Product Fellow
 
+![alt](8_Fellow-Michael-Rotarius-Profilfoto-_.jpg)
 **Michael Rotarius** \
 Engineering Fellow
 
+![alt](9_Fellow-Vanessa-Robayo-Ladino-Profilfoto_.jpg)
 **Vanessa Robayo Ladino** \
 Design Fellow
 
