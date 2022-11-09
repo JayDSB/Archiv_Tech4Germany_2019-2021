@@ -28,10 +28,10 @@ Immer mehr Rentenempfänger:innen müssen eine Steuererklärung abgeben. Um dies
 #### [GitHub (Code)](https://github.com/tech4germany/steuerlotse) 
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_Steuerlotse.pdf)
+#### [Fallstudie (PDF)](f1_Fallstudie_Steuerlotse.pdf)
 
 
-#### [Dokumentation (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Steuerlotse-Doku-Final-212020.pdf)
+#### [Dokumentation (PDF)](f2_Steuerlotse-Doku-Final-212020.pdf)
 
 
 # LINKS
@@ -42,6 +42,7 @@ Immer mehr Rentenempfänger:innen müssen eine Steuererklärung abgeben. Um dies
 
 #### [Auf der BMF-Seite](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglichter/Rentenbesteuerung/2020-10-16-steuerlotse.html)
 
+![alt](1_Screenshot-from-2020-10-14-15-17-13-1280x730.png)
 
 # Zielsetzung & Vorgehen
 
@@ -49,10 +50,13 @@ Ziel des Projektes ist es den Rentner:innen die Erfüllung ihrer steuerlichen Pf
 
 Um zu verstehen, wie eine nutzerzentrierte digitale Lösung aussehen könnte, hat sich das Team intensiv mit den Bedürfnissen der Rentner:innen beschäftigt und zahlreiche Interviews geführt. Ergänzt wurde dies durch Gespräche mit Expert:innen und Sachbearbeiter:innen vor Ort im Finanzamt Potsdam. Aufbauend auf dieser initialen **Nutzerforschung** sind erste Lösungsansätze entwickelt und als Prototypen mit Rentner:innen getestet worden.
 
+![alt](2_Projektarbeit1-1280x960.jpg)
 Projektarbeit: Gemeinsame Workshops
 
+![alt](3_Projektarbeit6-1280x960.jpg)
 Ideen-Entwicklung
 
+![alt](4_scholz-bild1.jpg)
 Treffen mit Olaf Scholz \
 © Bundesministerium der Finanzen/Photothek
 
@@ -67,17 +71,17 @@ Deshalb haben wir uns entschieden, nicht nur ein nutzerfreundliches Formular zu 
 ## Schritt-für-Schritt
 
 Das Formular selbst leitet Nutzer **Schritt-für-Schritt **durch den Prozess und beinhaltet nur die Angaben, die für die Zielgruppe relevant sind. 
-
+![alt](5_meine-Steuernummer-1280x800.jpg)
 
 ## Klare Struktur
 
 Es wird nach verständlichen, lebensnahen Kategorien strukturiert und bietet durch zusätzliche Erläuterungen optionale Hilfestellungen. Dadurch wird den Nutzer:innen ein Gefühl von **Vertrauen **und Sicherheit vermittelt.
-
+![alt](6_spenden-und-mitgliedsbeitraege-1280x800.png)
 
 ## Sicher abschicken
 
 Darüber hinaus zeigt der Prototyp, wie ein nutzerfreundlicher Prozess für ein sicheres Abschicken der Steuererklärungsdaten an Elster aussehen könnte.
-
+![alt](7_vielen-dank-1280x1276.jpg)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -87,7 +91,7 @@ Darüber hinaus zeigt der Prototyp, wie ein nutzerfreundlicher Prozess für ein 
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](https://tech.4germany.org/wp-content/uploads/2020/10/Steuerlotse-Doku-Final-212020.pdf) 
+#### [Download](f2_Steuerlotse-Doku-Final-212020.pdf) 
 
 
 ## Prototyp
@@ -103,20 +107,24 @@ Funktionierender Prototyp unseres Steuerlotsen
 Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 
-#### [Link](https://tech.4germany.org/project/steuerlotse-bmf/) 
+#### [Link](https://github.com/tech4germany/steuerlotse) 
 
 
 # das Team
 
+![alt](8_Anna Meshcheryakova.jpg)
 **Anna Meshcheryakova** \
 Product Fellow
 
+![alt](9_Julia Albrecht.jpg)
 **Julia Albrecht** \
 Design Fellow
 
+![alt](10_Lisa Kowalewski.jpg)
 **Lisa Kowalewski** \
 Design Fellow
 
+![alt](11_Daniel Hugenroth.jpg)
 **Daniel Hugenroth** \
 Engineering Fellow
 
@@ -127,8 +135,10 @@ Bundesministerium der Finanzen
 
 Land Brandenburg Ministerium der Finanzen und für Europa
 
+![alt](12_Alfried Reusch.jpg)
 **Alfried Reusch** \
 Projektleiter
 
+![alt](13_Jördis Rüdiger.jpg)
 **Jördis Rüdiger** \
 Digitallotsin
