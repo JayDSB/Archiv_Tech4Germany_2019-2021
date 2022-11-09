@@ -6,7 +6,7 @@
 Pflanzenschutzmittelzulassungsdaten werden bereits vom Bundesamt für Verbraucherschutz und Lebensmittelsicherheit zur Verfügung gestellt. Im Rahmen unseres Projektes haben wir den Prozess durch die Entwicklung einer API anwender:innenfreundlicher gestaltet.
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/PSM_Fallstudie.pdf) (Zirkellink)
+#### [Fallstudie (PDF)](f1_PSM_Fallstudie.pdf)
 
 
 # +++ Schnittstelle seit August 2021 live +++
@@ -28,16 +28,13 @@ Das Thema Datenbereitstellung durch die öffentliche Verwaltung ist innerhalb de
 # Ressourcen
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/PSM_Fallstudie.pdf)
+#### [Fallstudie (PDF)](f1_PSM_Fallstudie.pdf)
 
 
-#### [Doku (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/PSM_Projektdokumentation_final.pdf)
+#### [Doku (PDF)](f2_PSM_Projektdokumentation_final.pdf)
 
 
 #### [GitHub (Code)](https://github.com/tech4germany/psm.api.v1)
-
-
-#### [Prototyp (API)](https://psm.tech4germany.org/)
 
 
 # Zielsetzung & Vorgehen
@@ -72,32 +69,35 @@ Bereits durch die Bereitstellung der Daten in einem schlanken Prozess, jedoch in
 ## API nach OpenAPI-Standard
 
 Das technische Ergebnis unseres Projekts ist eine API nach OpenAPI-Standard, welche vorhandene Pflanzenschutzmitteldaten zur Verfügung stellt. Sie wurde in zwei agilen Iterationen mit Nutzer:innen getestet und weiterentwickelt. 
-
+![alt](1_frame_generic_light-1-1280x871.png)
 
 ## Bereits im Testbetrieb im BVL
 
 Die finale Version umfasst einen dokumentierten Endpunkt pro Tabelle der Pflanzenschutzmitteldatenbank. Die von uns entwickelte API wurde auf einem Testsystem des BVL installiert und soll in einem öffentlichen Testbetrieb zur Verfügung gestellt werden.
-
+![alt](2_frame_generic_light-2-1280x861.png)
 
 # das Team
 
+![alt](3_Fellow-Lara-Albrecht-Profilfoto-1-1280x1601.jpg)
 **Lara Albrecht \
 **Product Fellow
 
+![alt](4_Fellow-Kai-Bitterschule-Profilbild_.jpg)
 **Kai Bitterschulte \
 **Engineering Fellow
 
+![alt](5_Fellow-Frederike-Ramin-Profilfoto_-1280x1600.jpg)
 **Frederike Ramin \
 **Engineering Fellow
 
+![alt](6_Fellow-David-Redlich-Profilfoto-2-1280x1600.jpg)
 **David Redlich \
 **Engineering Fellow
 
 
 # Projektpartner
 
-**Armin  \
-Weiser \
+**Armin Weiser \
 **Projektleiter
 
 **Peter Ahlbrecht \
@@ -109,6 +109,5 @@ Digitallotse
 **Alexander Pfaff** \
 Digitallotse
 
-**Armin \
-Wiese** \
+**Armin Wiese** \
 Digitallotse
