@@ -22,6 +22,7 @@ geschaltet.
 # HERAUSFORDERUNG
 
 Wie können wir die Benutzerführung für die Rechnungssteller mühelos und mit geringem Zeitaufwand gestalten? Wie können wir die Bekanntheit der eRechnung erhöhen und relevante Informationen für die Rechnungssteller zur Verfügung stellen? Im Laufe des Projekts wurden das Projektziel und der Projektscope erweitert, um den fundamentalen Bedürfnissen der Endanwender gerecht zu werden.
+![alt](1_e-header.jpg)
 
 
 # ZIELSETZUNG
@@ -44,44 +45,47 @@ Das Ziel dieses Projektes war nicht nur das gesamte Bedienerlebnis der zentralen
 ## 1 Research
 
 Die mit den Projektpartnern gemeinsam aufgestellte Hypothesen wurden durch zahlreiche Interviews und Nutzertests verifiziert bzw. falsifiziert. Zudem wurden aus diesen Gesprächen und Tests zusätzliche Insights gewonnen. Diese wurden zusammen mit den sog. Pains und Gains gesammelt, aggregiert und in sog. Personas überführt, welche repräsentativ für die einzelnen Nutzergruppen standen.
+![alt](2_phase-1-1.png)
 
 
 ## 2 Ideation
 
 Jene Personas bildeten die Grundlage für die sog. WKW-Fragen (Wie könnten wir ...), aus denen in der sog. Ideation-Phase neue Ideen kreiert wurden. Diese wurden dann gesammelt, aggregiert und in potenzielle Features umformuliert.
+![alt](3_phase-2.png)
 
 
 ## 3 Decision
 
 Die mehr als 100 Features wurden von jedem Team-Mitglied nach Impact und Machbarkeit bewertet und gemeinsam anhand dieser Kennzahlen priorisiert. Anschließend konnten die Features wieder auf zurück auf die ursprünglichen Nutzer-Bedürfnisse gemappt werden. Anhand dieser Priorisierung wurde dann schlussendlich der neue Projektscope definiert.
+![alt](4_phase-3.png)
 
 
 ## 4 Conception, Prototyping
 
 In Abstimmung mit den Stakeholdern, wurde die Produktvision anhand eines visuellen Prototypen erarbeitet und kontinuierlich mit potenziellen Nutzern in einemiterativen Prozess getestet. Der erlangte Feedback und dieInsights wurden dann sofort wieder in den Prototypen eingearbeitet.
-
+![alt](5_phase-4.png)
 
 ## 5 Umsetzung
 
 Mit Hilfe des visuellen Prototypen wurde ein sog. High fidelity Prototyp entwickelt. Diese Web-Applikation wurde kontinuierlich mit Nutzern getestet und die letzten Änderungen vorgenommen. Aus der Realisierung der Features ergeben sich messbare, signifikante Verbesserungen, wodurch sich die Eingabezeit für eine Rechnung stark dezimiert.
-
+![alt](6_phase-5-1.png)
 
 ## 6 Vision
 
 Die eRechnung wird von uns als Teil der Servicewelt Bund verstanden. Alle Bürgen können auf dieser einzigen Plattform auf alle, der mehr als 500 Services, zugreifen. Hierbei müssen sie sich nur ein einziges mal einloggen. Alle der verfügbaren Services werden im selben UI / UX dargestellt und sind auf allen Endgeräten bedienbar.
-
+![alt](7_phase-6.png)
 
 # Eine Plattform
 
 Alle Services des Bundes werden auf einer Plattform gebündelt und – für alle Endgeräte optimiert – dem Bürger, Unternehmen und Organisationen zur Verfügung gestellt.
-
+![alt](8_e-1-980x738.png)
 
 # Onboarding Tour (Rundgang)
 
 Neue Nutzer werden mit Hilfe eines Rundgangs durch die Applikation
 
 abgeholt. Hierbei werden alle Funktionen einfach erklärt. Dieser Rundgang kann jederzeit auf jeder Seite neu gestartet werden.
-
+![alt](9_e-2-980x738.png)
 
 # Mentales Modell / Interaktionen
 
@@ -94,18 +98,20 @@ Daten die der Nutzer einmal eingegeben hat können auf Wunsch gespeichert und be
 Rechnungen welche von Drittprogrammen stammen können einfach hochgeladen, angesehen und eingereicht werden.
 
 Alle Rechnungen können ebenfalls ganz einfach exportiert werden.
+![alt](10_e-6-896x1024.png)
 
 
 # Hilfe
 
 Eine semantische Suche hilft den Nutzern bei häufigen Fragen schnell zur richtigen Antwort zu kommen.
-
+![alt](11_e-4-980x738.png)
 
 # Informationskampagne 
 
 Für einen schnellen Überblick werden kurz und knapp die wichtigsten Informationen im Bezug auf die eRechnung aufgeführt.
 
 Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten ToDos angezeigt.
+![alt](12_e-7-1024x679.png)
 
 
 # UNSERE ERGEBNISSE SIND FREI VERFÜGBAR
@@ -116,7 +122,7 @@ Zusätzlich wird auf die Vorteile der eRechnung verwiesen und konkreten ToDos an
 Ein umfangreiches Dokument, welches das Projekt und die Vorgehensweise ausführlich beschreibt.
 
 
-#### [Download](https://tech.4germany.org/project/erechnung/) `(Zirkellink)`
+#### [Download](Projektdokumentation)
 
 
 # PROJEKTTEAM
@@ -125,16 +131,21 @@ Durch Tech4Germany konnten wir einen tiefen Einblick in die Prozesse und die Arb
 
 Dabei haben wir festgestellt, dass bei der Digitalisierung der Behörden und deren Dienstleistungen noch viel zu tun ist. Wir freuen uns einen kleinen Beitrag dazu geleistet zu haben.
 
+![alt](13_8cccaa7a-85ec-4499-9c6e-db5397339a39-980x736.jpg)
 v. L. n. R. Sebastian Erhardt (Engineering Fellow), Katrin Schauer (Design Fellow), Melanie Adelt (Product Fellow), Michael Pernpeintner (Engineering Fellow)
 
 
 # PROJEKTPARTNER
 
+![alt](13_Arndt Fabrice.png)
 Arndt Fabrice, Digitallotse
 
+![alt](14_Claudia Hübner.png)
 Jan Kriener, Digitallotse
 
+![alt](15_Nikolai Jaklitsch.png)
 Claudia Hübner, Digitallotsin
 
+![alt](16_Jan Kriener.png)
 Nikolai Jaklitsch, Digitallotse
 
