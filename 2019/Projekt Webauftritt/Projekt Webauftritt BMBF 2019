@@ -42,14 +42,7 @@ Prototyping & Testing
 Finales Design
 
 
-###### 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
-
-
+![alt](1_Screenshot-980x621.png)
 
 # Die Ministeriumsseite der Zukunft
 
@@ -60,14 +53,7 @@ Nutzerzentrierte Struktur, die verschiedene Nutzergruppen anspricht und sich nic
 Service-orientierte Inhalte, die echte Probleme der Bürger:innen lösen
 
 
-###### 
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
-
+![alt](2_bufi-bg.png)
 
 # Übergreifende Empfehlungen für digitale Berührungspunkte
 
@@ -105,7 +91,7 @@ Wir empfehlen die Etablierung einer zentralen Einheit auf Bundesebene, die Stand
 Vorgehen & Ergebnisse zum Projekt **Ministeriumswebseite der Zukunft**
 
 
-##### [Download](https://tech.4germany.org/wp-content/uploads/2020/02/Dokumentation-BMBF-Short-1.pdf) 
+##### [Download](f1_Dokumentation-BMBF-Short-1.pdf) 
 
 
 ## Dokumentation 
@@ -113,7 +99,7 @@ Vorgehen & Ergebnisse zum Projekt **Ministeriumswebseite der Zukunft**
 Vorgehen & Ergebnisse zum Projekt Bundesbericht Forschung und Innovation
 
 
-##### [Download](https://tech.4germany.org/wp-content/uploads/2020/02/Dokumentation-BuFI-Short-1.pdf) 
+##### [Download](f2_Dokumentation-BuFI-Short-1.pdf) 
 
 
 ## Design Prototyp
@@ -127,7 +113,7 @@ Webauftritt des Bundesbericht Forschung und Innovation
 # Umsetzung: Webauftritt des Bundesbericht Live
 
 
-##### [Video](https://tech.4germany.org/wp-content/uploads/2020/05/BuFI-Promo-Clip-BMBF.mov) (Zirkellink)
+##### [Video](v1_BuFI-Promo-Clip-BMBF.mov)
 
 _“Der Bericht wird online völlig neu präsentiert: aufgeräumt und übersichtlich, vor allem aber interaktiv. In Zusammenarbeit mit Tech4Germany, der Digitalisierungsinitiative unter der Schirmherrschaft des Bundeskanzleramts, wurde die Website des Bundesberichts nutzerzentriert weiterentwickelt und ist im neuen Look ab jetzt online verfügbar.” _ \
 Pressemitteilung 13.05.2020, BMBF
@@ -141,85 +127,30 @@ Pressemitteilung 13.05.2020, BMBF
 
 # TEAM
 
-
-###### 
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
-
-
+![alt](3_Antonia Borkenhagen.png)
 **Antonia Borkenhagen \
 **Product Fellow
 
- 
-
-
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
-
+![alt](4_Katharina Hasenlust.png)
 **Katharina Hasenlust \
 **Design Fellow
 
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
-
-
+![alt](5_Sarah Hilker.png)
 **Sarah Hilker \
 **UI/UX Design Fellow
 
- 
-
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
-
-
+![alt](6_Carolin Ullrich.png)
 **Carolin Ullrich \
 **Product Fellow
 
 
 # Projektpartner
 
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
-
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.jpg "image_tooltip")
-
-
+![alt](7_Katharina Erbe.jpg)
 **Katharina Erbe \
 **Digitallotsin
 
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image23.png "image_tooltip")
-
-
+![alt](8_Martin Kleinemas.png)
 **Martin Kleinemas \
 **Digitallotse
 
