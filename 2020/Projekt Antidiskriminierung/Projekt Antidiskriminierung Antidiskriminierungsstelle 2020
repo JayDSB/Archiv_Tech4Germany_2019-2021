@@ -6,7 +6,7 @@
 Die Antidiskriminierungsstelle des Bundes berät Ratsuchende, die einen Diskriminierungs-fall erlebt haben und spielt eine zentrale Rolle in der Arbeit gegen Diskriminierung. Seit Jahren steigen die Fallzahlen an. Für das kleine Team der Berater:innen, die über hohe juristische Fachkompetenzen verfügen, bedeutet das eine hohe Arbeitslast. Auf der Seite der Ratsuchenden herrscht gleichzeitig Verwirrung und Frustration. Sie sehen sich mit langen Wartezeiten konfrontiert, können Informationen schwer auffinden und oft ist ihnen nicht klar, was sie erwarten können. Das Ziel des Projektes ist es, einen Zugang zu schaffen, der die momentane Situation auf beiden Seiten verbessert.
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_Antidiskriminierung_final-1.pdf)
+#### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
 
 
 # +++ Wegweiser live +++
@@ -28,13 +28,13 @@ Die Antidiskriminierungsstelle des Bundes, kurz ADS, unterstützt und berät Rat
 #### [GitHub (Code) ](https://github.com/tech4germany/ads-prototype)
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Fallstudie_Antidiskriminierung_final-1.pdf)
+#### [Fallstudie (PDF)](f1_Fallstudie_Antidiskriminierung_final-1.pdf)
 
 
-#### [Dokumentation (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/Projektdokumentation_Antidiskriminierung.pdf)
+#### [Dokumentation (PDF)](f2_Projektdokumentation_Antidiskriminierung.pdf)
 
 
-#### [User Journey (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/1b_ADS-Digital-Whiteboard-User-Journey-Ratsuchende.pdf)
+#### [User Journey (PDF)](f3_1b_ADS-Digital-Whiteboard-User-Journey-Ratsuchende.pdf)
 
 
 # LINKS
@@ -57,6 +57,7 @@ Die Antidiskriminierungsstelle des Bundes, kurz ADS, unterstützt und berät Rat
 
 #### [Pressemitteilung](https://www.antidiskriminierungsstelle.de/SharedDocs/Kurzmeldungen/DE/2020/nl_02_2020/nl_02_aus_der_arbeit_3.html)
 
+![alt](1_Screenshot-2020-10-20-161600-1280x695.png)
 
 # Zielsetzung & Vorgehen
 
@@ -75,14 +76,15 @@ Nach zahlreichen Testings, Feedback-Sessions und Ideenfindungsworkshops wurde de
 Ziel war es die Ratsuchenden nicht zusätzlich mit juristischen Fachausdrücken und komplexen Anwendungen zu verunsichern.
 
 Deshalb ist der Einstieg intuitiv, niedrigschwellig und fragt zuerst nur den Merkmalsbereich der Diskriminierung ab.
-
+![alt](2_Wegweiser_1-1280x800.png)
 
 ## Nächste Schritte
 
 Nacheinander werden Lebensbereiche und Zeitraum der Diskriminierung abgefragt.
 
 Nach fünf Klicks erhalten Ratsuchende passende Informationen zu Ihrem Diskriminierungsfall.
-
+![alt](3_Wegweiser_2-1280x800.png)
+![alt](4_Wegweiser_34-1280x703.png)
 
 # KEY INSIGHTS / ZENTRALE ERKENNTNISSE
 
@@ -122,7 +124,7 @@ Unsere Lösung ermöglicht es den Ratsuchenden über einen automatisierten Einst
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](https://tech.4germany.org/wp-content/uploads/2020/10/Projektdokumentation_Antidiskriminierung.pdf) 
+#### [Download](f2_Projektdokumentation_Antidiskriminierung.pdf) 
 
 
 ## Prototyp
@@ -162,8 +164,10 @@ Engineering Fellow
 
 **Bundesministerium für Familie, Senioren, Frauen und Jugend**
 
+![alt](5_Daniel Scherr.jpg)
 **Daniel Scherr** \
 Digitallotse
 
+![alt](6_anna-braunroth.jpg)
 **Dr. Anna Braunroth** \
 Projektleiterin
