@@ -8,7 +8,7 @@ Wir haben den personalisierten und proaktiven Familienlotsen Sonne als Prototype
 Beide Ergebnisse wurden für die IT-Maßnahme “Chatbots für die Bundesverwaltung” der Dienstekonsolidierung erarbeitet.
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/20200930_Fallstudie_V2.pdf)
+#### [Fallstudie (PDF)](f1_20200930_Fallstudie_V2.pdf)
 
 
 # Hintergrund & Herausforderung
@@ -21,22 +21,22 @@ Die Bundesverwaltung möchte stetig die Kommunikation mit Bürger:innen verbesse
 # Ressourcen
 
 
-#### [Doku BMFSFJ (PDF)](https://tech.4germany.org/wp-content/uploads/2020/11/BMFSFJ_Dokumentation_V1.pdf)
+#### [Doku BMFSFJ (PDF)](f2_BMFSFJ_Dokumentation_V1.pdf)
 
 
 #### [GitHub (Code)](https://github.com/tech4germany/rasa_familienlotse) 
 
 
-#### [Doku BfJ (PDF)](https://tech.4germany.org/wp-content/uploads/2020/10/BfJ_Doku_final.pdf)
+#### [Doku BfJ (PDF)](f3_BfJ_Doku_final.pdf)
 
 
 # Chatbot Checkliste
 
 
-#### [Checkliste Web](https://tech.4germany.org/wp-content/uploads/2020/10/Checkliste.pdf)
+#### [Checkliste Web](f4_Checkliste.pdf)
 
 
-#### [Checkliste Poster](https://tech.4germany.org/wp-content/uploads/2020/10/ChatbotCheckliste_Poster.png)
+#### [Checkliste Poster](2_ChatbotCheckliste_Poster.png)
 
 
 # Links
@@ -53,6 +53,7 @@ Die Bundesverwaltung möchte stetig die Kommunikation mit Bürger:innen verbesse
 
 #### [Twitter Video](https://twitter.com/Tech4Germany/status/1311247978875715589?s=20)
 
+![alt](1_sonne_screens.png)
 
 # Zielsetzung & Vorgehen
 
@@ -81,7 +82,7 @@ Der Fall des BMFSFJ hat gezeigt, dass eine bewusste Positionierung und ein klar 
 # Chatbot-Checkliste
 
 Mithilfe von 16 Punkten können Chatbot-Interessierte sich schnell einen Überblick über wichtige Rahmenbedingungen verschaffen, um den eigenen Anwendungsfall auf eine mögliche Chatbot-Eignung hin zu prüfen.
-
+![alt](2_ChatbotCheckliste_Poster.png)
 
 # Familienlotse Sonne
 
@@ -92,7 +93,7 @@ Dabei greift Sonne proaktiv Fragen auf und lotst, anhand des Kontexts, auch zu w
 Die Funktionalität wurde unter Zuhilfenahme der Open Source Software Rasa prototypisiert.
 
 Um vertiefte Erkenntnisse zum vom BMFSFJ langfristig geplanten Familienassistenten zu erarbeiten, wurden auch potenzielle Einbindungen von Messenger-Diensten und Funktionen der proaktiven Beratung prototypisch aufgezeigt.
-
+![alt](3_sonne_screens.png)
 
 # WORAN WIR GLAUBEN
 
@@ -100,27 +101,27 @@ Um vertiefte Erkenntnisse zum vom BMFSFJ langfristig geplanten Familienassistent
 ## 1 Den Mut haben, Nein zu sagen.
 
 Frühes Validieren, ausgeprägtes Problemverständnis, Testen der Hypothesen mit Prototypen & erst dann an Technologie denken. Wenn die Technologie nicht passt, muss man nein sagen können.
-
+![alt](4_Bildschirmfoto-2020-10-19-um-12.51.35-1280x702.png)
 
 ## 2 Vorabcheck Chatbot-Technologie per Checkliste
 
 Passt die Ausgangslage? Wurden andere Ausgangspunkte ausreichend behandelt? Wurde die Gesamtstrategie bedacht? Wurde der Aufwand bedacht? Wurden die Anforderungen bedacht?
-
+![alt](5_Flyer_Part1-1280x638.png)
 
 ## 3 (Verwaltungs-)Projekte brauchen interdisziplinäre Teams 
 
 Nur mit diesem Setup konnten wir bei unserem Projekt eine breite Fläche an Herausforderungen bearbeiten.
-
+![alt](6_Bildschirmfoto-2020-10-19-um-12.45.46-1280x666.png)
 
 ## 4 Nutzerbedürfnisse sind die Bedürfnisse von Bürger:innen UND Verwaltungsmitarbeiter:innen
 
 Anders als in der Industrie ist es beim Design digitaler Produkte in der Verwaltung zentral, nicht nur die Bedürfnisse der Endnutzer:innen des Services, etwa der Bürger:innen, sondern auch die der Bediener:innen eines Services, nämlich der Verwaltungsmitarbeiter:innen zu berücksichtigen.
-
+![alt](7_BuergerVerwaltung-1280x558.png)
 
 ## 5 Ein Chatbot braucht Pflege
 
 Einen Chatbot aufzusetzen hat Ähnlichkeiten mit dem Aufbau eines Call-Centers: In beiden Fällen ist ein (technisches) Setup notwendig, es muss über Inhalte nachgedacht und der Service muss kontinuierlich weiterentwickelt werden.
-
+![alt](8_ChatbotEigenschaften-1280x662.png)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -130,7 +131,7 @@ Einen Chatbot aufzusetzen hat Ähnlichkeiten mit dem Aufbau eines Call-Centers: 
 Detailliertes Vorgehen und Ergebnisse des Projektteams (BMFSFJ)
 
 
-#### [Doku BMFSFJ](https://tech.4germany.org/wp-content/uploads/2020/11/BMFSFJ_Dokumentation_V1.pdf) 
+#### [Doku BMFSFJ](f2_BMFSFJ_Dokumentation_V1.pdf) 
 
 
 ## Code
@@ -146,18 +147,28 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 Detailliertes Vorgehen und Ergebnisse des Projektteams (BfJ)
 
 
-#### [Doku BfJ](https://tech.4germany.org/wp-content/uploads/2020/10/BfJ_Doku_final.pdf) 
+#### [Doku BfJ](f3_BfJ_Doku_final.pdf) 
 
 
 # das Team
 
+![alt](8_Fellow-Benedikt-Liebig-Profilfoto_-1280x1599.jpg)
 **Benedikt Liebig \
-**Product Fellow[ \
-](https://www.linkedin.com/in/beliebig/)**Miriam Metz \
-**Design Fellow[ \
-](https://www.linkedin.com/in/miriammetz/)**Anna Steinberg \
-**Engineering Fellow[ \
-](https://www.linkedin.com/in/anna-steinberg-855329172/)**Johannes Heck \
+**Product Fellow
+[ \](https://www.linkedin.com/in/beliebig/)
+
+![alt](9_Fellow-Miriam-Metz-Profilfoto_-1280x1600.jpg)
+**Miriam Metz \
+**Design Fellow
+[ \](https://www.linkedin.com/in/miriammetz/)
+
+![alt](10_Fellow-Anna-Bettina-Profilfoto-1-1280x1600.jpg)
+**Anna Steinberg \
+**Engineering Fellow
+[ \](https://www.linkedin.com/in/anna-steinberg-855329172/)
+
+![alt](11_Fellow-Johannes-Heck-Profilfoto.jpg)
+**Johannes Heck \
 **Engineering Fellow
 
 
