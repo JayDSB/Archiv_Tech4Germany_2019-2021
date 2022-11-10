@@ -5,20 +5,21 @@
 
 **In der Auskunft des Zolls landen täglich bis zu 15.000 Anrufversuche**. Diese gewaltige Anfragelast führt zu langen Warteschleifen und Frustration auf beiden Seiten der Telefonleitung. Unser Ziel war es, eine Lösung zu entwickeln, die diese Anfragelast reduziert. 
 
+![alt](1_problem-grafik-1280x488.jpg)
 
 # Ressourcen** **
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie_Barrierefreie-Buergerkommunikation_barrierefrei.pdf)
+#### [Fallstudie (PDF)](f1_Fallstudie_Barrierefreie-Buergerkommunikation_barrierefrei.pdf)
 
 
-#### [Doku (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Barrierefreie_Buergerkommunikation_Doku.pdf)
+#### [Doku (PDF)](f2_Barrierefreie_Buergerkommunikation_Doku.pdf)
 
 
-#### [Leitlinien (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/design-prinzipien_team_gzd_itz-bund-1.pdf)
+#### [Leitlinien (PDF)](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
 
 
-#### [Mahnung neu & alt (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/MahnungAltNeu.pdf)
+#### [Mahnung neu & alt (PDF)](f4_MahnungAltNeu.pdf)
 
 
 #### [GitHub (Code)](https://github.com/tech4germany/Zoll-Assistent)
@@ -40,6 +41,7 @@
 
 Durch Interviews haben wir herausgefunden: Die 15.000 Anrufversuche pro Tag sind nicht das Problem, sondern die Symptome. Das eigentliche Problem liegt in der Kommunikation: **Wichtige Informationen sind für Bürger:innen teilweise schwer verständlich.** Besonders der häufigste Kontaktpunkt zwischen Bürger:innen und dem Zoll, ein analoger Brief, stellt bereits eine große Barriere dar. Dieser ist mit seinem Behörden-Deutsch und Paragraphentexten zu kompliziert geschrieben. Die Folge: Bürger:innen rufen an, weil sie nicht verstehen, was genau der Zoll ihnen mitteilen will.
 
+![alt](2_problem-small.jpg)
 
 # Unsere Lösung: Bestehendes verbessern und digital erweitern
 
@@ -52,6 +54,7 @@ Verständliche Sprache, ein klares Layout und das Hervorheben wichtiger Informat
 
 Wir sind uns dabei des Spannungsverhältnisses zwischen Bürger:innennähe und Rechtssicherheit bewusst. Deshalb schlagen wir eine **_Bürger:innen-Seite_** mit den wichtigsten Informationen sowie Handlungs-Aufforderungen vor und stellen dann Rechtssicherheit auf den Folgeseiten, den **_Jurist:innen-Seiten_**, her. Hier finden sich alle rechtlich notwendigen, aber weniger verständlichen Ausführungen.
 
+![alt](3_mockup-3.png)
 
 ## Der digitale Assistent
 
@@ -59,11 +62,13 @@ Für uns ist aber auch klar: Papier hat Grenzen. Dort, wo wir analog nicht weite
 
 Aufgaben, wie die Änderung der Kontodaten, lassen sich nun schnell und digital erledigen. Außerdem ermöglichen wir Barrierefreiheitsfunktionen wie Kontrast-Einstellung, Textvergrößerung und Vorleseoptionen. Der Assistent leistet dort Hilfe, wo Probleme entstehen.
 
+![alt](4_digitaler-assistent-mockup-1-1280x1645.jpg)
 
 # Prozesse hinterfragen & verändern
 
 Warum manches so kompliziert ist, hat nicht selten einen bereits obsoleten Grund. Durch das Hinterfragen und Anstoßen von Veränderungen konnten wir bestehende, höchst formalisierte Prozesse für Bürger:innen und Mitarbeitende vereinfachen.
 
+#![Der Schritt ins Digitale beginnt im Analogen](5_quote-1280x457.jpg)
 
 # Analog anpacken
 
@@ -79,6 +84,7 @@ Das Digitale unterstützt, wo die Grenzen des Papiers beginnen. Vorlesefunktion,
 
 Zukünftig wünschen wir uns, dass alle Briefe bürger:innen-nah geschrieben und strukturiert sind. Der QR-Code oben rechts in der Ecke auf dem Schreiben soll zum Standard werden und direkte Hilfestellung bieten – da, wo sie gebraucht wird.
 
+![alt](6_vision-1280x638.jpg)
 
 # Nachhaltig bürger:innen-nah kommunizieren
 
@@ -86,6 +92,7 @@ Barrierefrei zu gestalten bedeutet für uns, einen Zugang zu Informationen für 
 
 Um auch nach unserem Projekt einen Wandel hin zur bürgernahen Kommunikation zu ermöglichen, haben wir in einem Workshop gemeinsam Designprinzipen und **Arbeitsleitfäden** entwickelt.
 
+![alt](7_designprinzipien_white-1280x671.jpg)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -95,7 +102,7 @@ Um auch nach unserem Projekt einen Wandel hin zur bürgernahen Kommunikation zu 
 Detailliertes Vorgehen und Ergebnisse des Projektteams
 
 
-#### [Download](https://tech.4germany.org/barrierefreie_buergerkommunikation_doku/) 
+#### [Download](f2_Barrierefreie_Buergerkommunikation_Doku.pdf) 
 
 
 ## Prototyp
@@ -111,7 +118,7 @@ Funktionierender Prototyp unseres digitalen Assistenten
 Neues und altes (originales) Mahnschreiben 
 
 
-#### [Download](https://tech.4germany.org/neues-und-altes-mahnschreiben/) 
+#### [Download](f4_MahnungAltNeu.pdf) 
 
 
 ## Leitlinien
@@ -119,7 +126,7 @@ Neues und altes (originales) Mahnschreiben
 Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 
 
-#### [Download](https://tech.4germany.org/design-prinzipien_team_gzd_itz-bund_barrierefrei/) 
+#### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf 
 
 
 # das Team
@@ -147,28 +154,33 @@ Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 
 **ITZ Bund**
 
+![alt](8_GZD-Alexander-Gorski-800x1056-1.png)
 **Dr. Alexander Gorski \
 **Digitallotse, Referatsleiter    \
 GZD
 
+![alt](9_GZD-Annett-Eulitz-800x1056-1.png)
 **Annett Eulitz \
 **Digitallotsin, Ständige Vertretung Referatsleitung  \
 GZD
 
+![alt](10_GZD-Gert-Kraus-800x1056-1.png)
 **Gert Krauß \
 **Digitallotse, \
 Leiter Kompetenzzentrum für barrierefreie IT  \
 GZD
 
+![alt](11_ITZBund-Ursula-Rohmann-800x1056-1.png)
 **Ursula Rohmann ** Digitallotsin, \
 Leiterin Koordinierende Stelle Barrierefreiheit \
 ITZBund
 
+![alt](12_ITZBund-Rene-Guerth.jpg)
 **René Gürth**
-
 Digitallotse, Referent im Referat eGovernment \
 ITZBund
 
+![alt](13_GZD-Doreen-Laveatz-800x1056-1-1280x1690.jpg)
 **Doreen Laveatz**
 
 Digitallotsin, Fachbereich Chat- und Voicebots     \
