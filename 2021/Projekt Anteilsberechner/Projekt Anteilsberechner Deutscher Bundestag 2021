@@ -15,6 +15,8 @@ Als die Herzkammer der deutschen Demokratie möchte der Bundestag für die Bürg
 
 Hierfür beschäftigen wir uns prototypisch mit dem Rechner AZUR:
 
+![alt](1_azur_2000.jpg)
+
 AZUR stellt sicher, dass Ressourcen im Bundestag proportional zwischen den Fraktionen verteilt werden. Fraktionen, die viele Sitze erhalten haben, dürfen deswegen zum Beispiel länger im Plenum sprechen. AZUR funktioniert zwar, ist aber 20 Jahre alt, mit aussterbenden Technologien gebaut, aktuell nicht für die Öffentlichkeit zugänglich, und intern nur für Expert:innen nachvollziehbar.
 
 
@@ -24,10 +26,10 @@ AZUR stellt sicher, dass Ressourcen im Bundestag proportional zwischen den Frakt
 #### [Der Neue Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
 
-#### [Fallstudie (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Fallstudie_Bundestag.pdf)
+#### [Fallstudie (PDF)](f1_Fallstudie_Bundestag.pdf)
 
 
-#### [Dokumentation (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Projektdokumentation.pdf)
+#### [Dokumentation (PDF)](f2_Projektdokumentation.pdf)
 
 
 #### [Infoseite (Prototyp)](https://sites.google.com/view/t4gazur/home)
@@ -45,8 +47,9 @@ Das Ziel des Projektes war es, AZUR von Grund auf neu zu gestalten und für die 
 
 Alles Weitere wurde direkt von den Bedürfnissen der Nutzenden abgeleitet. Um diese zu erschließen, haben wir über 30 Interviews geführt – innerhalb und außerhalb des Bundestages, mit Verwaltungsmitarbeiter:innen, Datenjournalist:innen, oder Lokalpolitiker:innen. 
 
+![alt](2_20211007-werkstattbesuch-helge-braun-lowres-23-1280x854.jpg)
 
-# ErkenNtnisse und lösungen
+# Erkenntnisse und lösungen
 
 Unsere Recherche hat drei Erkenntnisse hervorgebracht, die jeweils eine Lösung generierten.
 
@@ -73,6 +76,7 @@ Interessierte Bürger:innen sind auf Mediator:innen wie Datenexpert:innen oder J
 
 Mit einer deutlich vereinfachten Oberfläche ist der Rechner jetzt auch für Fachfremde intuitiv nutzbar. 
 
+![alt](3_Bildschirmfoto-2021-11-03-um-17.09.08-1280x736.png)
 
 #### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
@@ -81,6 +85,7 @@ Mit einer deutlich vereinfachten Oberfläche ist der Rechner jetzt auch für Fac
 
 Eine Informationswebsite hilft neuen Nutzer:innen die Rolle und Funktion des Rechners zu verstehen.
 
+![alt](4_Bildschirmfoto-2021-11-03-um-17.10.15-1280x736.png)
 
 #### [Zur Website](https://sites.google.com/view/t4gazur/home) 
 
@@ -91,8 +96,9 @@ In einer Vereinheitlichung und einem Ausbau des Datenangebotes des Bundestages l
 
 In unserer Projektdokumentation stellen wir dafür unser Konzept für eine “Digitale Kuppel” vor.
 
+![alt](5_kuppo_aber_wir_haben_die_rechte_dran.jpg)
 
-#### [Zur Doku (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Projektdokumentation.pdf) 
+#### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
 
 
 # Unsere Ergebnisse sind frei verfügbar
@@ -116,7 +122,7 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 #### [Zum Rechner](https://dev.tech4germany.org/AZUR-Frontend/) 
 
 
-#### [Zur Doku (PDF)](https://tech.4germany.org/wp-content/uploads/2021/11/Projektdokumentation.pdf) 
+#### [Zur Doku (PDF)](f2_Projektdokumentation.pdf) 
 
 
 #### [Frontend](https://github.com/tech4germany/azur-frontend) \
@@ -125,14 +131,17 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 
 # das Team
 
+![alt](6_Simone Kilian.jpg)
 **Simone Kilian \
 **Product Fellow \
 [LinkedIn](https://www.linkedin.com/in/simone-kilian-540229151/)
 
+![alt](7_david_profilbild-1.jpg)
 **David Probst \
 **Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/daudprobst/)
 
+![alt](8_Christopher Schmitz.jpg)
 **Christopher Schmitz \
 **Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/clschmitz/)
