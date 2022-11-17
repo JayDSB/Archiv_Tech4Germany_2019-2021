@@ -12,7 +12,9 @@ Unter A wurden alle Medieninhalte entsprechend des originalen Layouts im Text hi
 Die Medieninhalte sind entsprechend Ihrer Reihenfolge nummeriert nach folgendem Muster:
 
 Bilder mit Präfix nummeriert: 1-XX
+
 Videos mit Präfix v für Video + Nummerierung: v1-vXX
+
 Dokumente mit Präfix f für File + Nummerierung: f1-fXX
 
 
