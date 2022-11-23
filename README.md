@@ -8,7 +8,7 @@ Zur Lesbarkeit folgende Hinweise:
 Unter dem Buchstaben A findet man die originale Projektbeschreibung.
 Unter B liegt ein nicht barrierefreies PDF welches das ursprüngliche Layout der Homepage näherungsweise darstellt.
 
-Unter A wurden alle Medieninhalte entsprechend des originalen Layouts im Text hinterlegt.
+Im Textabschnitt A wurden alle Medieninhalte entsprechend des originalen Layouts hinterlegt.
 Die Medieninhalte sind entsprechend Ihrer Reihenfolge nummeriert nach folgendem Muster:
 
 Bilder mit Präfix nummeriert: 1-XX
