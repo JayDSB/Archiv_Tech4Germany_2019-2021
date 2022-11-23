@@ -1,7 +1,7 @@
 # Archiv_Tech4Germany_2019-2021
 Archiv der Tech4Germany Projektwebpages für die Jahrgänge 2019-2021
 
-Dieses Archiv bildet die ehemalige Projektarchiv Homepage der Tech4Germany Projekte ab.
+Dieses Archiv bildet die ehemalige Projektarchiv Homepage der Tech4Germany Projekte des Digitalservice des Bundes ab.
 
 Zur Lesbarkeit folgende Hinweise:
 
