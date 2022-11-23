@@ -1,6 +1,5 @@
 # Archiv der Tech4Germany Projektwebpages für die Jahrgänge 2019-2021
 
-So funktioniert das hier alles:
 
 Dieses Archiv bildet die ehemalige Projektarchiv Homepage der Tech4Germany Projekte des Digitalservice des Bundes ab.
 
@@ -19,4 +18,4 @@ Videos mit Präfix v für Video + Nummerierung: v1-vXX
 Dokumente mit Präfix f für File + Nummerierung: f1-fXX
 
 
-
+Ergänze Beschreibung Tech4Germany und Fellowships im Rahmen des Digitalservice 
