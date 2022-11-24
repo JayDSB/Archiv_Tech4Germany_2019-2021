@@ -15,7 +15,7 @@ Ab 2020 wird flächendeckend in allen Behörden die E-Akte eingeführt, die den 
 
 Mit einer E-Learning Lösung soll der geschätzte Schulungsaufwand von 750.000 Personentagen reduziert und die Qualität der Schulungen durch Individualisierung gesteigert werden.
 
-![alt](1_750k.png)
+![alt](01_750k.png)
 
 # Zielsetzung
 
@@ -32,19 +32,19 @@ Intensiver Austausch zur Verwirklichung der E-Learning Vision im weiteren Verlau
 
 Die Startseite soll Nutzer:innen in ihrer Lernerfahrung bestärken. Begonnene Kurse können hier jederzeit fortgesetzt werden. Eine Anlaufstelle für Hilfesuchende ist deutlich sichtbar.
 
-![alt](2_0.png)
+![alt](02_0.png)
 
 # Kurse
 
 Die Kursseiten bieten die Möglichkeit Anhänge & Vorlagen direkt runterzuladen und inhaltliche Fragen zu stellen.
 
-![alt](3_1.png)
+![alt](03_1.png)
 
 # Direkte Suche
 
 Auch punktuelle Lerner kommen mit einer erweiterten Suche auf ihre Kosten und können Wissen erfahren ohne ganze Kurse oder Lektionen zu schauen.
 
-![alt](4_2.png)
+![alt](04_2.png)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -75,19 +75,23 @@ How-To Guide zur Erstellung von Schulungsvideos in Behörden.
 
 # ProjektTEAM
 
-![alt](5_Chantal Rexhausen.jpg)
+![alt](05_Chantal_Rexhausen.png)
+
 **Chantal Rexhausen \
 **Product Fellow
 
-![alt](6_patrick_reuter.jpg)
+![alt](06_patrick_reuter.png)
+
 **Patrick Reuter \
 **Engineering Fellow
 
-![alt](7_lailoma_scharifi.jpg)
+![alt](07_lailoma_scharifi.png)
+
 **Lailoma Scharifi \
 **Design Fellow
 
-![alt](8_sebastian_serth.jpg)
+![alt](08_sebastian_serth.png)
+
 **Sebastian Serth \
 **Engineering Fellow
 
