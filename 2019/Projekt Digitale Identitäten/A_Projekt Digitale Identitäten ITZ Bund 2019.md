@@ -69,19 +69,19 @@ Organisation eines strategischen Roundtables zu Digitalen Identitäten (s. Case 
 
 Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen nur der erste Schritt zu einem digitalen Staat sind: Mitarbeitende der Verwaltung müssen in den Transformationsprozess eingebunden werden. 
 
-![alt](1_Sina Beckstein.jpg)
+![alt](01_Sina Beckstein.png)
 **Sina Beckstein \
 **Product Fellow
 
-![alt](2_Isabelle Miller.jpg)
+![alt](02_Isabelle Miller.png)
 **Isabelle Miller \
 **Engineering Fellow
 
-![alt](3_Julian Rösner.jpg)
+![alt](03_Julian Rösner.png)
 **Julian Rösner \
 **Engineering Fellow
 
-![alt](4_Dominik Wörner.jpg)
+![alt](04_Dominik Wörner.png)
 **Dominik Wörner \
 **Product Fellow
 
