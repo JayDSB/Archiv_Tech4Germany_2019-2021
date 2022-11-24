@@ -69,7 +69,7 @@ Organisation eines strategischen Roundtables zu Digitalen Identitäten (s. Case 
 
 Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen nur der erste Schritt zu einem digitalen Staat sind: Mitarbeitende der Verwaltung müssen in den Transformationsprozess eingebunden werden. 
 
-![alt](2019/Projekt Digitale Identitäten/1_Sina Beckstein.jpg)
+![alt](1_Sina Beckstein.jpg)
 **Sina Beckstein \
 **Product Fellow
 
