@@ -42,7 +42,7 @@ Prototyping & Testing
 Finales Design
 
 
-![alt](1_Screenshot-980x621.png)
+![alt](01_Screenshot-980x621.png)
 
 # Die Ministeriumsseite der Zukunft
 
@@ -53,7 +53,7 @@ Nutzerzentrierte Struktur, die verschiedene Nutzergruppen anspricht und sich nic
 Service-orientierte Inhalte, die echte Probleme der Bürger:innen lösen
 
 
-![alt](2_bufi-bg.png)
+![alt](02_bufi-bg.png)
 
 # Übergreifende Empfehlungen für digitale Berührungspunkte
 
@@ -127,30 +127,35 @@ Pressemitteilung 13.05.2020, BMBF
 
 # TEAM
 
-![alt](3_Antonia Borkenhagen.png)
+![alt](03_Antonia_Borkenhagen.png)
+
 **Antonia Borkenhagen \
 **Product Fellow
 
-![alt](4_Katharina Hasenlust.png)
+![alt](04_Katharina_Hasenlust.png)
+
 **Katharina Hasenlust \
 **Design Fellow
 
-![alt](5_Sarah Hilker.png)
+![alt](05_Sarah_Hilker.png)
+
 **Sarah Hilker \
 **UI/UX Design Fellow
 
-![alt](6_Carolin Ullrich.png)
+![alt](06_Carolin_Ullrich.png)
+
 **Carolin Ullrich \
 **Product Fellow
 
 
 # Projektpartner
 
-![alt](7_Katharina Erbe.jpg)
+![alt](07_Katharina_Erbe.png)
+
 **Katharina Erbe \
 **Digitallotsin
 
-![alt](8_Martin Kleinemas.png)
+![alt](08_Martin_Kleinemas.png)
 **Martin Kleinemas \
 **Digitallotse
 
