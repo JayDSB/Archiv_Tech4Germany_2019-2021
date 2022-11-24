@@ -89,9 +89,11 @@ Prototyp eines Orientierungstools, das spielerisch Berufsfelder und passende Wei
 BMAS
 
 ![alt](07_Michael-Schulze.png)
+
 **Michael Schulze \
 **Digitallotse
 
 ![alt](08_borggraefe_online.png)
+
 **Julia Borggräfe \
 **Projektleiterin
