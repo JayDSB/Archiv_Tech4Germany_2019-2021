@@ -108,9 +108,11 @@ Technologie allein ist nicht die Lösung. Wir übergeben eine nutzerzentrierte W
 # Projektpartner
 
 ![alt](06_Stephanie_Weidner.png)
+
 **Stephanie Weidner \
 **Digitallotsin
 
 ![alt](07_Daniela_Weber.png)
+
 **Daniela Weber \
 **Digitallotsin
