@@ -13,7 +13,7 @@ Jeden Sommer wechseln über 2.000 Mitarbeiter:innen des Auswärtigen Dienstes de
 
 Die Rotation bringt für die Beschäftigten des Auswärtigen Dienstes eine Fülle von Aufgaben und Herausforderungen mit sich. Nicht nur der Umzug als solcher, auch die Wohnungssuche, neue Schulunterbringung für die Kinder, die Berufstätigkeit der Partner_in, erforderliche Impfungen, etc. müssen organisiert werden. Trotz fachlicher und finanzieller Unterstützung des Auswärtigen Amtes, finden sie sich bei der Planung und Umsetzung einer Rotation jedes Mal aufs Neue in einem Spannungsfeld zwischen persönlichen Bedürfnissen und den komplexen, bürokratischen Vorgaben. Die Menge an Bürokratie und das unübersichtliche Informationsangebot im Planungsprozess bringen Ungewissheit, Überforderung, Stress; unter Umständen wird finanzielle Unterstützung mangels Kenntnis nicht in Anspruch genommen.
 
-![alt](1_Ausgangslage-980x654.jpg)
+![alt](01_Ausgangslage-980x654.png)
 
 
 # Herausforderungen der Rotation
@@ -84,29 +84,33 @@ GitHub Repository der Webapp, die im Sharepoint des Auswärtigen Amtes läuft.
 
 Technologie allein ist nicht die Lösung. Wir übergeben eine nutzerzentrierte Webapp an das Auswärtige Amt. Dort muss die Arbeit nun weitergehen. Es müssen Organisationsstrukturen und Arbeitsweisen geschaffen werden, die das Rotationsportal pflegen, anpassen und weiterentwickeln.
 
-![alt](2_Carl Gödecken.jpg)
+![alt](02_Carl_Gödecken.png)
+
 **Carl Gödecken \
 **Engineering Fellow
 
-![alt](3_Brando Vasquez.jpg)
+![alt](03_Brando_Vasquez.png)
+
 **Brando Vasquez \
 **Design Fellow
 
-![alt](4_Stephan Detje.jpg)
+![alt](04_Stephan_Detje.png)
+
 **Stephan Detje \
 **Engineering Fellow
 
-![alt](5_Joshua Pacheco.jpg)
+![alt](05_Joshua_Pacheco.png)
+
 **Joshua Pacheco \
 **Service Designer
 
 
 # Projektpartner
 
-![alt](6_Stephanie Weidner.jpg)
+![alt](06_Stephanie_Weidner.png)
 **Stephanie Weidner \
 **Digitallotsin
 
-![alt](7_Daniela Weber.png)
+![alt](07_Daniela_Weber.png)
 **Daniela Weber \
 **Digitallotsin
