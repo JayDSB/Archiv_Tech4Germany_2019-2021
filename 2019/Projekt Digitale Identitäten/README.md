@@ -85,6 +85,7 @@ Das Thema Digitale Identitäten hat uns gezeigt, dass gute technische Lösungen 
 **Engineering Fellow
 
 ![alt](04_Dominik_Wörner.png)
+
 **Dominik Wörner \
 **Product Fellow
 
