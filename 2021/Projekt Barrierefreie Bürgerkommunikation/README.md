@@ -126,7 +126,7 @@ Neues und altes (originales) Mahnschreiben
 Unsere Leitlinien für das Arbeiten als moderne Verwaltung
 
 
-#### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf 
+#### [Download](f3_design-prinzipien_team_gzd_itz-bund-1.pdf)
 
 
 # das Team
