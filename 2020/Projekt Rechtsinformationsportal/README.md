@@ -124,19 +124,19 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub.
 
 # das Team
 
-![alt](8_Conrad_Square.png)
+![alt](8_Conrad_Square.png) \
 **Conrad Schlenkhoff** \
 Product Fellow
 
-![alt](9_Tito_Square-1280x1280.jpg)
+![alt](9_Tito_Square-1280x1280.jpg) \
 **José Ernesto Rodríguez** \
 Design Fellow
 
-![alt](10_Greta_Square.png)
+![alt](10_Greta_Square.png) \
 **Greta Fest** \
 Engineering Fellow
 
-![alt](11_Niko-1280x1280.jpg)
+![alt](11_Niko-1280x1280.jpg) \
 **Niko Felger** \
 Engineering Fellow
 
