@@ -164,7 +164,7 @@ Engineering Fellow
 
 **Bundesministerium für Familie, Senioren, Frauen und Jugend**
 
-![alt](5_Daniel Scherr.jpg)
+![alt](5_Daniel_Scherr.jpg)
 **Daniel Scherr** \
 Digitallotse
 
