@@ -104,19 +104,19 @@ Der Open Source Code unseres Prototypens
 
 # das Team
 
-![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg)
+![alt](6_Fellow-Carolin-Bednarz-Profilfoto_.jpg) \
 **Carolin Bednarz** \
 Product Fellow
 
-![alt](7_Fellow-Jonas-Pohlmann-Profilfoto_.jpg)
+![alt](7_Fellow-Jonas-Pohlmann-Profilfoto_.jpg) \
 **Jonas Pohlmann** \
 Product Fellow
 
-![alt](8_Fellow-Michael-Rotarius-Profilfoto-_.jpg)
+![alt](8_Fellow-Michael-Rotarius-Profilfoto-_.jpg) \
 **Michael Rotarius** \
 Engineering Fellow
 
-![alt](9_Fellow-Vanessa-Robayo-Ladino-Profilfoto_.jpg)
+![alt](9_Fellow-Vanessa-Robayo-Ladino-Profilfoto_.jpg) \
 **Vanessa Robayo Ladino** \
 Design Fellow
 
