@@ -139,6 +139,6 @@ Land Brandenburg Ministerium der Finanzen und für Europa
 **Alfried Reusch** \
 Projektleiter
 
-![alt](3_Jördis_Rüdiger.png) \
+![alt](13_Jördis_Rüdiger.png) \
 **Jördis Rüdiger** \
 Digitallotsin
