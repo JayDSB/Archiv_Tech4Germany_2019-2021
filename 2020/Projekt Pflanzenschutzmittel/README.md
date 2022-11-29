@@ -78,19 +78,19 @@ Die finale Version umfasst einen dokumentierten Endpunkt pro Tabelle der Pflanze
 
 # das Team
 
-![alt](3_Fellow-Lara-Albrecht-Profilfoto-1-1280x1601.jpg)
+![alt](3_Fellow-Lara-Albrecht-Profilfoto-1-1280x1601.jpg) \
 **Lara Albrecht \
 **Product Fellow
 
-![alt](4_Fellow-Kai-Bitterschule-Profilbild_.jpg)
+![alt](4_Fellow-Kai-Bitterschule-Profilbild_.jpg) \
 **Kai Bitterschulte \
 **Engineering Fellow
 
-![alt](5_Fellow-Frederike-Ramin-Profilfoto_-1280x1600.jpg)
+![alt](5_Fellow-Frederike-Ramin-Profilfoto_-1280x1600.jpg) \
 **Frederike Ramin \
 **Engineering Fellow
 
-![alt](6_Fellow-David-Redlich-Profilfoto-2-1280x1600.jpg)
+![alt](6_Fellow-David-Redlich-Profilfoto-2-1280x1600.jpg) \
 **David Redlich \
 **Engineering Fellow
 
