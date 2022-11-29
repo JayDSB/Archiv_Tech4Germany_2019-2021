@@ -182,18 +182,18 @@ Engineering Fellow \
 
 Bundesministerium für Familie, Senioren, Frauen und Jugend
 
-![alt](25_Kirsten_Wendland.jpg)
+![alt](25_Kirsten_Wendland.jpg) \
 **Dr. Kirsten Wendland \
 **Referat 411, Referatsleiterin
 
-![alt](26_BMFSFJ-Alexandra-Wend-1-800x1056-1.png)
+![alt](26_BMFSFJ-Alexandra-Wend-1-800x1056-1.png) \
 **Alexandra Wend \
 **Referat 411, Referentin
 
-![alt](27_Dr.-Nikola-Benke-BMFSFJ-980x1294.jpg)
+![alt](27_Dr.-Nikola-Benke-BMFSFJ-980x1294.jpg) \
 **Dr. Nikola Benke \
 **Referat 411, Referentin
 
-![alt](28_Ricarda-Skirde-980x1296.jpg)
+![alt](28_Ricarda-Skirde-980x1296.jpg) \
 **Ricarda Skirde \
 **Referat 411, Praktikantin
