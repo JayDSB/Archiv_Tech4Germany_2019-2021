@@ -81,22 +81,22 @@ Wie gehen Kund:innen vor, um den Service der Videoberatung auf der Website der D
 
 # Unser Team
 
-![alt](6_Fellow-Vanessa-Espinosa-H-Profilfoto_-1280x1600.jpg)
+![alt](6_Fellow-Vanessa-Espinosa-H-Profilfoto_-1280x1600.jpg) \
 **Vanessa Espinosa \
 **Design Fellow \
 [LinkedIn](https://www.linkedin.com/in/espinosaureta/)
 
-![alt](7_Fellow-Inken-Alber-Profilfoto-1280x1600.jpg)
+![alt](7_Fellow-Inken-Alber-Profilfoto-1280x1600.jpg) \
 **Inken Alber \
 **Design Fellow \
 [LinkedIn](https://www.linkedin.com/in/inken-alber)
 
-![alt](8_Fellow-Leonhard-Melzer-Profilfoto_.jpg)
+![alt](8_Fellow-Leonhard-Melzer-Profilfoto_.jpg) \
 **Leonhard Melzer \
 **Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/leonhardmelzer/) 
 
-![alt](9_Fellow-Julian-Wildmann-Profilfoto_-1280x1600.jpg)
+![alt](9_Fellow-Julian-Wildmann-Profilfoto_-1280x1600.jpg) \
 **Julian Wildmann \
 **Product Fellow \
 [LinkedIn](https://www.linkedin.com/in/julian-wildmann/)
