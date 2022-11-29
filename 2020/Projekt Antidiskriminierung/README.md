@@ -164,10 +164,10 @@ Engineering Fellow
 
 **Bundesministerium für Familie, Senioren, Frauen und Jugend**
 
-![alt](5_Daniel_Scherr.jpg)
+![alt](5_Daniel_Scherr.jpg) \
 **Daniel Scherr** \
 Digitallotse
 
-![alt](6_anna-braunroth.jpg)
+![alt](6_anna-braunroth.jpg) \
 **Dr. Anna Braunroth** \
 Projektleiterin
