@@ -74,22 +74,22 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # das Team
 
-![alt](4_Fellow-Nele-Lüpkes-Profilfoto_-scaled.jpg)
+![alt](4_Fellow-Nele-Lüpkes-Profilfoto_-scaled.jpg) \
 **Nele Lüpkes** \
 Design Fellow \
-[LinkedIn](https://www.linkedin.com/in/nelel%C3%BCpkes/)
+[LinkedIn](https://www.linkedin.com/in/nelel%C3%BCpkes/) 
 
-![alt](5_TjorvenSW-1280x1600.jpg)
+![alt](5_TjorvenSW-1280x1600.jpg) \
 **Tjorven Rohwer** \
 Product Fellow \
 [LinkedIn](https://www.linkedin.com/in/tjorvenrohwer/)
 
-![alt](6_Fellow-BenjaminDegenhart_Profilfoto_-1280x1600.jpg)
+![alt](6_Fellow-BenjaminDegenhart_Profilfoto_-1280x1600.jpg) \
 **Benjamin Degenhart** \
 Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/bdegenhart/)
 
-![alt](7_Fellow-Daniela-Vogel-Profilfoto-_-1280x1600.jpg)
+![alt](7_Fellow-Daniela-Vogel-Profilfoto-_-1280x1600.jpg) \
 **Daniela Vogel** \
 Design Fellow \
 [LinkedIn](https://www.linkedin.com/in/daniela-vogel-9831b7183/)
@@ -97,22 +97,22 @@ Design Fellow \
 
 # Projektpartner
 
-![alt](8_JemilaKehinde-DL-OpenDataPortal.jpg)
+![alt](8_JemilaKehinde-DL-OpenDataPortal.jpg) \
 **Jemila Kehinde \
 **Digitallotsin
 
-![alt](9_JensSchuering-DL-OpenDataPortal.jpg)
+![alt](9_JensSchuering-DL-OpenDataPortal.jpg) \
 **Jens Schüring \
 **Digitallotse
 
-![alt](10_ChristianHorn-DL-OpenDataPortal-1280x1600.jpg)
+![alt](10_ChristianHorn-DL-OpenDataPortal-1280x1600.jpg) \
 **Christian Horn \
 **Digitallotse
 
-![alt](11_AntjeGoeldner-DL-OpenDataPortal.jpg)
+![alt](11_AntjeGoeldner-DL-OpenDataPortal.jpg) \
 **Antje Göldner \
 **Digitallotsin
 
-![alt](12_ChristianWittig-DL-OpenDataPortal.jpg)
+![alt](12_ChristianWittig-DL-OpenDataPortal.jpg) \
 **Christian Wittig \
 **Digitallotse
