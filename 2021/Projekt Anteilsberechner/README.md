@@ -131,17 +131,17 @@ Der gesamte Code des Rechners zur freien Wieder- und Weiterverwendung auf GitHub
 
 # das Team
 
-![alt](6_Simone Kilian.jpg)
+![alt](6_Simone_Kilian.jpg) \
 **Simone Kilian \
 **Product Fellow \
 [LinkedIn](https://www.linkedin.com/in/simone-kilian-540229151/)
 
-![alt](7_david_profilbild-1.jpg)
+![alt](7_david_profilbild-1.jpg) \
 **David Probst \
 **Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/daudprobst/)
 
-![alt](8_Christopher Schmitz.jpg)
+![alt](8_Christopher_Schmitz.jpg) \
 **Christopher Schmitz \
 **Engineering Fellow \
 [LinkedIn](https://www.linkedin.com/in/clschmitz/)
