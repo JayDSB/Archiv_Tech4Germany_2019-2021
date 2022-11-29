@@ -1,8 +1,8 @@
-# Tech4Germany Projektwebpages der Jahrgänge 2019-2021
+# **Tech4Germany Projektwebpages der Jahrgänge 2019-2021**
 
-Erklärung der Struktur und der Nutzung
+## Struktur und Anleitung
 
-1. Auf der ersten Ebene finden sie die Projekte nach Jahrgängen sortiert.
+1. Auf der ersten Ebene finden sie die **Projekte** nach Jahrgängen sortiert.
 
 2. Öffnen sie nun einen Jahrgang durch einen Klick.
 
@@ -10,22 +10,24 @@ Erklärung der Struktur und der Nutzung
 
 4. Öffnen sie nun ein Projekt.
 
-5. Hier liegen alle das Projekt betreffende Dateien
+5. Hier finden sie alle das Projekt betreffende Medien.
 
-5.1 Wenn man nach unten scrollt findet man das Projekt als README aufbereitet
+  5.1 Wenn man nach unten scrollt findet man den Projekttext als README aufbereitet
 
-5.2 Zur Lesbarkeit der Ordnerstruktur folgende Hinweise:
+  5.2 Zur Lesbarkeit der Ordnerstruktur folgende Hinweise:
 
-Unter dem README.md findet man die originale Projektbeschreibung.
-Unter dem Buchstaben B liegt ein nicht barrierefreies PDF welches das ursprüngliche Layout der Homepage näherungsweise darstellt.
+- Unter dem README.md findet man die **originale** Projektbeschreibung. \
 
-Die Medieninhalte sind entsprechend Ihrer Reihenfolge nummeriert nach folgendem Muster:
+Medieninhalte sind nach folgendem Muster benannt:
 
-Bilder mit Präfix nummeriert: 01-XX
+- Bilder mit Nummerierung: 01-XX
 
-Videos mit Präfix v für Video + Nummerierung: v1-vXX
+- Videos mit Präfix v für Video + Nummerierung: v1-vX
 
-Dokumente mit Präfix f für File + Nummerierung: f1-fXX
+- Dokumente mit Präfix f für File + Nummerierung: f1-fX
 
+- Unter B ist ein PDF-Export der ursprünglichen Projektpage hinterlegt.
 
-Ergänze Beschreibung Tech4Germany und Fellowships im Rahmen des Digitalservice 
+## Beschreibung Tech4Germany und Fellowships im Rahmen des Digitalservice 
+
+[] Beschreibung erstellen
