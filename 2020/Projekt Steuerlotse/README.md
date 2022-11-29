@@ -42,7 +42,7 @@ Immer mehr Rentenempfänger:innen müssen eine Steuererklärung abgeben. Um dies
 
 #### [Auf der BMF-Seite](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Schlaglichter/Rentenbesteuerung/2020-10-16-steuerlotse.html)
 
-![alt](1_Screenshot-from-2020-10-14-15-17-13-1280x730.png)
+![alt](01_Screenshot-from-1280x730.png)
 
 # Zielsetzung & Vorgehen
 
@@ -50,13 +50,13 @@ Ziel des Projektes ist es den Rentner:innen die Erfüllung ihrer steuerlichen Pf
 
 Um zu verstehen, wie eine nutzerzentrierte digitale Lösung aussehen könnte, hat sich das Team intensiv mit den Bedürfnissen der Rentner:innen beschäftigt und zahlreiche Interviews geführt. Ergänzt wurde dies durch Gespräche mit Expert:innen und Sachbearbeiter:innen vor Ort im Finanzamt Potsdam. Aufbauend auf dieser initialen **Nutzerforschung** sind erste Lösungsansätze entwickelt und als Prototypen mit Rentner:innen getestet worden.
 
-![alt](2_Projektarbeit1-1280x960.jpg)
+![alt](02_Projektarbeit1-1280x960.png) \
 Projektarbeit: Gemeinsame Workshops
 
-![alt](3_Projektarbeit6-1280x960.jpg)
+![alt](03_Projektarbeit6-1280x960.png) \
 Ideen-Entwicklung
 
-![alt](4_scholz-bild1.jpg)
+![alt](04_scholz-bild1.png) \
 Treffen mit Olaf Scholz \
 © Bundesministerium der Finanzen/Photothek
 
@@ -71,17 +71,17 @@ Deshalb haben wir uns entschieden, nicht nur ein nutzerfreundliches Formular zu 
 ## Schritt-für-Schritt
 
 Das Formular selbst leitet Nutzer **Schritt-für-Schritt **durch den Prozess und beinhaltet nur die Angaben, die für die Zielgruppe relevant sind. 
-![alt](5_meine-Steuernummer-1280x800.jpg)
+![alt](05_meine-Steuernummer-1280x800.png)
 
 ## Klare Struktur
 
 Es wird nach verständlichen, lebensnahen Kategorien strukturiert und bietet durch zusätzliche Erläuterungen optionale Hilfestellungen. Dadurch wird den Nutzer:innen ein Gefühl von **Vertrauen **und Sicherheit vermittelt.
-![alt](6_spenden-und-mitgliedsbeitraege-1280x800.png)
+![alt](06_spenden-und-mitgliedsbeitraege-1280x800.png)
 
 ## Sicher abschicken
 
 Darüber hinaus zeigt der Prototyp, wie ein nutzerfreundlicher Prozess für ein sicheres Abschicken der Steuererklärungsdaten an Elster aussehen könnte.
-![alt](7_vielen-dank-1280x1276.jpg)
+![alt](07_vielen-dank-1280x1276.png)
 
 # Unsere Ergebnisse sind frei verfügbar
 
@@ -112,19 +112,19 @@ Unsere Arbeitsergebnisse zum Wiederverwenden auf GitHub
 
 # das Team
 
-![alt](8_Anna Meshcheryakova.jpg)
+![alt](08_Anna_Meshcheryakova.png) \
 **Anna Meshcheryakova** \
 Product Fellow
 
-![alt](9_Julia Albrecht.jpg)
+![alt](09_Julia_Albrecht.png) \
 **Julia Albrecht** \
 Design Fellow
 
-![alt](10_Lisa Kowalewski.jpg)
+![alt](10_Lisa_Kowalewski.png) \
 **Lisa Kowalewski** \
 Design Fellow
 
-![alt](11_Daniel Hugenroth.jpg)
+![alt](11_Daniel_Hugenroth.png) \
 **Daniel Hugenroth** \
 Engineering Fellow
 
@@ -135,10 +135,10 @@ Bundesministerium der Finanzen
 
 Land Brandenburg Ministerium der Finanzen und für Europa
 
-![alt](12_Alfried Reusch.jpg)
+![alt](12_Alfried_Reusch.png) \
 **Alfried Reusch** \
 Projektleiter
 
-![alt](13_Jördis Rüdiger.jpg)
+![alt](3_Jördis_Rüdiger.png) \
 **Jördis Rüdiger** \
 Digitallotsin
