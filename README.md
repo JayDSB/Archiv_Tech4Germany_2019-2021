@@ -1,17 +1,27 @@
-# Archiv der Tech4Germany Projektwebpages für die Jahrgänge 2019-2021
+# Tech4Germany Projektwebpages der Jahrgänge 2019-2021
 
+Erklärung der Struktur und der Nutzung
 
-Dieses Archiv bildet die ehemalige Projektarchiv Homepage der Tech4Germany Projekte des Digitalservice des Bundes ab.
+1. Auf der ersten Ebene finden sie die Projekte nach Jahrgängen sortiert.
 
-Zur Lesbarkeit folgende Hinweise:
+2. Öffnen sie nun einen Jahrgang durch einen Klick.
 
-Unter dem Buchstaben A findet man die originale Projektbeschreibung.
-Unter B liegt ein nicht barrierefreies PDF welches das ursprüngliche Layout der Homepage näherungsweise darstellt.
+3. Hier finden sie alle Projekte des Jahrgangs aufgelistet.
 
-Im Textabschnitt A wurden alle Medieninhalte entsprechend des originalen Layouts hinterlegt.
+4. Öffnen sie nun ein Projekt.
+
+5. Hier liegen alle das Projekt betreffende Dateien
+
+5.1 Wenn man nach unten scrollt findet man das Projekt als README aufbereitet
+
+5.2 Zur Lesbarkeit der Ordnerstruktur folgende Hinweise:
+
+Unter dem README.md findet man die originale Projektbeschreibung.
+Unter dem Buchstaben B liegt ein nicht barrierefreies PDF welches das ursprüngliche Layout der Homepage näherungsweise darstellt.
+
 Die Medieninhalte sind entsprechend Ihrer Reihenfolge nummeriert nach folgendem Muster:
 
-Bilder mit Präfix nummeriert: 1-XX
+Bilder mit Präfix nummeriert: 01-XX
 
 Videos mit Präfix v für Video + Nummerierung: v1-vXX
 
